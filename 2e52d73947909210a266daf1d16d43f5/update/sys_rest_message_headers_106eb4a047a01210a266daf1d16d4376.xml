@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_headers">
     <sys_rest_message_headers action="INSERT_OR_UPDATE">
         <name>Content-Type</name>
-        <rest_message display_value="pi.frox.semaphore.login">bb5ef4a047a01210a266daf1d16d4376</rest_message>
+        <rest_message display_value="pi.frox.semaphore.authentication">bb5ef4a047a01210a266daf1d16d4376</rest_message>
         <sys_class_name>sys_rest_message_headers</sys_class_name>
         <sys_created_by>david.ogea</sys_created_by>
         <sys_created_on>2024-09-06 15:06:37</sys_created_on>

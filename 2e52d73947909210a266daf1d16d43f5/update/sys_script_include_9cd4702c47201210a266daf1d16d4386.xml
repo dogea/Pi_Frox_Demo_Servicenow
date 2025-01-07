@@ -6,7 +6,9 @@
         <caller_access/>
         <client_callable>false</client_callable>
         <description/>
+        <mobile_callable>false</mobile_callable>
         <name>piFroxUtils</name>
+        <sandbox_callable>false</sandbox_callable>
         <script><![CDATA[var piFroxUtils = Class.create();
 piFroxUtils.prototype = {
 	// Fetch the System properties to trigger the interface

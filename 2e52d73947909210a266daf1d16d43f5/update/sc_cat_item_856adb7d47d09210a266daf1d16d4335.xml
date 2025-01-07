@@ -15,7 +15,7 @@
 <p>Once the order is complete, the page should no longer by available under the url http://&lt;target&gt;/index.htm.</p>]]></description>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
-        <flow_designer_flow display_value="pi_frox_ansible_request_flow">5fb229d747d41210a266daf1d16d43bf</flow_designer_flow>
+        <flow_designer_flow display_value="pi_frox_semaphore_request_flow">5fb229d747d41210a266daf1d16d43bf</flow_designer_flow>
         <fulfillment_automation_level>unspecified</fulfillment_automation_level>
         <group/>
         <hide_sp>false</hide_sp>
