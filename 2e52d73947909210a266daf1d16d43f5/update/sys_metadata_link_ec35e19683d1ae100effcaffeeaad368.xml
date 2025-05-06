@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>1a15e55683d1ae100effcaffeeaad301</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_linux_server">
+    <cmdb_ci_linux_server action="INSERT_OR_UPDATE">
+        <allotted_electric_power/>
+        <allotted_electric_power_unit/>
+        <asset/>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status>Not Yet Reviewed</attestation_status>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category>Hardware</category>
+        <cd_rom>false</cd_rom>
+        <cd_speed/>
+        <change_control/>
+        <chassis_type/>
+        <checked_in/>
+        <checked_out/>
+        <classification>Production</classification>
+        <cluster_id/>
+        <cluster_name/>
+        <cmdb_ot_entity/>
+        <comments/>
+        <company/>
+        <correlation_id/>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <cpu_core_count/>
+        <cpu_core_thread/>
+        <cpu_count/>
+        <cpu_manufacturer/>
+        <cpu_name/>
+        <cpu_speed/>
+        <cpu_type/>
+        <default_gateway/>
+        <delivery_date/>
+        <department/>
+        <discovery_source/>
+        <disk_space/>
+        <dns_domain/>
+        <dr_backup/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <environment/>
+        <fault_count>0</fault_count>
+        <firewall_status>Intranet</firewall_status>
+        <first_discovered/>
+        <floppy/>
+        <form_factor/>
+        <fqdn/>
+        <gl_account/>
+        <hardware_status>installed</hardware_status>
+        <hardware_substatus/>
+        <host_name/>
+        <install_date/>
+        <install_status>1</install_status>
+        <internet_facing>true</internet_facing>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <kernel_release/>
+        <last_discovered/>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <managed_by_group/>
+        <manufacturer/>
+        <model_id/>
+        <model_number/>
+        <monitor>false</monitor>
+        <most_frequent_user/>
+        <name>pifrox_04</name>
+        <object_id/>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <os/>
+        <os_address_width/>
+        <os_domain/>
+        <os_service_pack/>
+        <os_version/>
+        <owned_by/>
+        <po_number/>
+        <processor_name/>
+        <product_instance_id/>
+        <purchase_date/>
+        <ram/>
+        <schedule/>
+        <serial_number/>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory>Computer</subcategory>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_linux_server</sys_class_name>
+        <sys_class_path>/!!/!2/!(/!!/!0</sys_class_path>
+        <sys_created_by>david.ogea</sys_created_by>
+        <sys_created_on>2025-05-06 07:16:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1a15e55683d1ae100effcaffeeaad301</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>david.ogea</sys_updated_by>
+        <sys_updated_on>2025-05-06 07:16:36</sys_updated_on>
+        <unverified>false</unverified>
+        <used_for>Production</used_for>
+        <vendor/>
+        <virtual>false</virtual>
+        <warranty_expiration/>
+    </cmdb_ci_linux_server>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>david.ogea</sys_created_by>
+        <sys_created_on>2025-05-06 07:16:56</sys_created_on>
+        <sys_id>ec35e19683d1ae100effcaffeeaad368</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pifrox_04</sys_name>
+        <sys_package display_value="PiFroxDemo" source="2e52d73947909210a266daf1d16d43f5">2e52d73947909210a266daf1d16d43f5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PiFroxDemo">2e52d73947909210a266daf1d16d43f5</sys_scope>
+        <sys_update_name>sys_metadata_link_ec35e19683d1ae100effcaffeeaad368</sys_update_name>
+        <sys_updated_by>david.ogea</sys_updated_by>
+        <sys_updated_on>2025-05-06 07:16:56</sys_updated_on>
+        <tablename>cmdb_ci_linux_server</tablename>
+    </sys_metadata_link>
+</record_update>
