@@ -29,7 +29,7 @@
         <sys_updated_by>david.ogea</sys_updated_by>
         <sys_updated_on>2024-09-06 15:21:41</sys_updated_on>
         <use_basic_auth>false</use_basic_auth>
-        <use_mid_server display_value="Ubuntu_Mid_Server">0341a50d47589210a266daf1d16d43fd</use_mid_server>
+        <use_mid_server display_value="">0341a50d47589210a266daf1d16d43fd</use_mid_server>
         <use_mutual_auth>false</use_mutual_auth>
     </sys_rest_message_fn>
 </record_update>

@@ -30,7 +30,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>9e78f30e47641210a266daf1d16d43d5</sys_id>
-        <sys_mod_count>76</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>pi_frox_semaphore_request_action</sys_name>
         <sys_overrides/>
         <sys_package display_value="PiFroxDemo" source="2e52d73947909210a266daf1d16d43f5">2e52d73947909210a266daf1d16d43f5</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="PiFroxDemo">2e52d73947909210a266daf1d16d43f5</sys_scope>
         <sys_update_name>sys_hub_action_type_definition_9e78f30e47641210a266daf1d16d43d5</sys_update_name>
         <sys_updated_by>david.ogea</sys_updated_by>
-        <sys_updated_on>2024-10-29 19:31:09</sys_updated_on>
+        <sys_updated_on>2025-05-06 06:59:05</sys_updated_on>
         <system_level>false</system_level>
         <type/>
     </sys_hub_action_type_definition>
@@ -132,18 +132,6 @@ outputs.rbody = JSON.stringify(pfu._semSetRequestBody(inputs.var_playbook, input
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=02bccef647e01210a266daf1d16d43e0"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>application</field>
-        <id>02bccef647e01210a266daf1d16d43e0</id>
-        <sys_created_by>david.ogea</sys_created_by>
-        <sys_created_on>2024-09-13 20:28:20</sys_created_on>
-        <sys_id>5ebccef647e01210a266daf1d16d43fe</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>david.ogea</sys_updated_by>
-        <sys_updated_on>2024-09-13 20:28:20</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>playbook</field>
         <id>02bccef647e01210a266daf1d16d43e0</id>
         <sys_created_by>david.ogea</sys_created_by>
@@ -165,18 +153,6 @@ outputs.rbody = JSON.stringify(pfu._semSetRequestBody(inputs.var_playbook, input
         <sys_updated_by>david.ogea</sys_updated_by>
         <sys_updated_on>2024-09-13 20:28:20</sys_updated_on>
         <table>var__m_sys_hub_step_ext_input_02bccef647e01210a266daf1d16d43e0</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>script</field>
-        <id>02bccef647e01210a266daf1d16d43e0</id>
-        <sys_created_by>david.ogea</sys_created_by>
-        <sys_created_on>2024-09-13 20:28:20</sys_created_on>
-        <sys_id>56bccef647e01210a266daf1d16d43ff</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>david.ogea</sys_updated_by>
-        <sys_updated_on>2024-09-13 20:28:20</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
         <value/>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
@@ -553,7 +529,6 @@ outputs.rbody = JSON.stringify(pfu._semSetRequestBody(inputs.var_playbook, input
         <xml_view>false</xml_view>
     </sys_hub_step_ext_output>
     <sys_hub_input_scripts action="delete_multiple" query="instance=02bccef647e01210a266daf1d16d43e0"/>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_step_ext_output_02bccef647e01210a266daf1d16d43e0^sys_idNOT INa5b1963247241210a266daf1d16d4398"/>
     <sys_documentation action="INSERT_OR_UPDATE">
         <element>rbody</element>
         <help/>
@@ -567,11 +542,11 @@ outputs.rbody = JSON.stringify(pfu._semSetRequestBody(inputs.var_playbook, input
         <sys_created_on>2024-09-13 20:50:08</sys_created_on>
         <sys_id>a5b1963247241210a266daf1d16d4398</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>rBody</sys_name>
         <sys_package display_value="PiFroxDemo" source="2e52d73947909210a266daf1d16d43f5">2e52d73947909210a266daf1d16d43f5</sys_package>
         <sys_policy/>
         <sys_scope display_value="PiFroxDemo">2e52d73947909210a266daf1d16d43f5</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_02bccef647e01210a266daf1d16d43e0_rbody_en</sys_update_name>
         <sys_updated_by>david.ogea</sys_updated_by>
         <sys_updated_on>2024-09-13 20:50:08</sys_updated_on>
         <url/>
@@ -1047,7 +1022,6 @@ outputs.rbody = JSON.stringify(pfu._semSetRequestBody(inputs.var_playbook, input
         <sys_updated_by>david.ogea</sys_updated_by>
         <sys_updated_on>2024-09-13 20:18:38</sys_updated_on>
     </sys_hub_input_scripts>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_step_ext_output_4d5657de47201210a266daf1d16d43c2"/>
     <sys_hub_action_input action="delete_multiple" query="model=9e78f30e47641210a266daf1d16d43d5^sys_idNOT IN33461f8347601210a266daf1d16d4300,339e42fa47e01210a266daf1d16d4376,40ae42fa47e01210a266daf1d16d437b"/>
     <sys_hub_action_input action="INSERT_OR_UPDATE">
         <active>true</active>
@@ -1488,7 +1462,6 @@ outputs.rbody = JSON.stringify(pfu._semSetRequestBody(inputs.var_playbook, input
         <sys_updated_on>2024-09-11 20:26:09</sys_updated_on>
     </sys_hub_action_status_metadata>
     <sys_hub_status_condition action="delete_multiple" query="action_status_metadata_id=3209f3ce47641210a266daf1d16d4375"/>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_9e78f30e47641210a266daf1d16d43d5^sys_idNOT IN40ae42fa47e01210a266daf1d16d437a,c4ae42fa47e01210a266daf1d16d437e,f3461f8347601210a266daf1d16d4306"/>
     <sys_documentation action="INSERT_OR_UPDATE">
         <element>playbook</element>
         <help/>
@@ -1502,11 +1475,11 @@ outputs.rbody = JSON.stringify(pfu._semSetRequestBody(inputs.var_playbook, input
         <sys_created_on>2024-09-13 20:36:39</sys_created_on>
         <sys_id>40ae42fa47e01210a266daf1d16d437a</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Playbook</sys_name>
         <sys_package display_value="PiFroxDemo" source="2e52d73947909210a266daf1d16d43f5">2e52d73947909210a266daf1d16d43f5</sys_package>
         <sys_policy/>
         <sys_scope display_value="PiFroxDemo">2e52d73947909210a266daf1d16d43f5</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_9e78f30e47641210a266daf1d16d43d5_playbook_en</sys_update_name>
         <sys_updated_by>david.ogea</sys_updated_by>
         <sys_updated_on>2024-09-13 20:36:39</sys_updated_on>
         <url/>
@@ -1525,11 +1498,11 @@ outputs.rbody = JSON.stringify(pfu._semSetRequestBody(inputs.var_playbook, input
         <sys_created_on>2024-09-13 20:36:39</sys_created_on>
         <sys_id>c4ae42fa47e01210a266daf1d16d437e</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Requested Item Sys ID</sys_name>
         <sys_package display_value="PiFroxDemo" source="2e52d73947909210a266daf1d16d43f5">2e52d73947909210a266daf1d16d43f5</sys_package>
         <sys_policy/>
         <sys_scope display_value="PiFroxDemo">2e52d73947909210a266daf1d16d43f5</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_9e78f30e47641210a266daf1d16d43d5_requested_item_sys_id_en</sys_update_name>
         <sys_updated_by>david.ogea</sys_updated_by>
         <sys_updated_on>2024-09-13 20:36:39</sys_updated_on>
         <url/>
@@ -1548,18 +1521,17 @@ outputs.rbody = JSON.stringify(pfu._semSetRequestBody(inputs.var_playbook, input
         <sys_created_on>2024-09-14 20:28:20</sys_created_on>
         <sys_id>f3461f8347601210a266daf1d16d4306</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Template ID</sys_name>
         <sys_package display_value="PiFroxDemo" source="2e52d73947909210a266daf1d16d43f5">2e52d73947909210a266daf1d16d43f5</sys_package>
         <sys_policy/>
         <sys_scope display_value="PiFroxDemo">2e52d73947909210a266daf1d16d43f5</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_9e78f30e47641210a266daf1d16d43d5_template_id_en</sys_update_name>
         <sys_updated_by>david.ogea</sys_updated_by>
         <sys_updated_on>2024-09-14 20:28:20</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_input_9e78f30e47641210a266daf1d16d43d5"/>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_output_9e78f30e47641210a266daf1d16d43d5^sys_idNOT IN3209b3ce47641210a266daf1d16d43da,7e09b3ce47641210a266daf1d16d43d2"/>
     <sys_documentation action="INSERT_OR_UPDATE">
         <element>__dont_treat_as_error__</element>
         <help/>
@@ -1573,11 +1545,11 @@ outputs.rbody = JSON.stringify(pfu._semSetRequestBody(inputs.var_playbook, input
         <sys_created_on>2024-09-11 20:26:09</sys_created_on>
         <sys_id>3209b3ce47641210a266daf1d16d43da</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Don't Treat as Error</sys_name>
         <sys_package display_value="PiFroxDemo" source="2e52d73947909210a266daf1d16d43f5">2e52d73947909210a266daf1d16d43f5</sys_package>
         <sys_policy/>
         <sys_scope display_value="PiFroxDemo">2e52d73947909210a266daf1d16d43f5</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_9e78f30e47641210a266daf1d16d43d5___dont_treat_as_error___en</sys_update_name>
         <sys_updated_by>david.ogea</sys_updated_by>
         <sys_updated_on>2024-09-11 20:26:09</sys_updated_on>
         <url/>
@@ -1596,11 +1568,11 @@ outputs.rbody = JSON.stringify(pfu._semSetRequestBody(inputs.var_playbook, input
         <sys_created_on>2024-09-11 20:26:09</sys_created_on>
         <sys_id>7e09b3ce47641210a266daf1d16d43d2</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Action Status</sys_name>
         <sys_package display_value="PiFroxDemo" source="2e52d73947909210a266daf1d16d43f5">2e52d73947909210a266daf1d16d43f5</sys_package>
         <sys_policy/>
         <sys_scope display_value="PiFroxDemo">2e52d73947909210a266daf1d16d43f5</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_9e78f30e47641210a266daf1d16d43d5___action_status___en</sys_update_name>
         <sys_updated_by>david.ogea</sys_updated_by>
         <sys_updated_on>2024-09-11 20:26:09</sys_updated_on>
         <url/>
@@ -2164,7 +2136,6 @@ outputs.rbody = JSON.stringify(pfu._semSetRequestBody(inputs.var_playbook, input
         <sys_updated_by>david.ogea</sys_updated_by>
         <sys_updated_on>2024-09-13 20:18:52</sys_updated_on>
     </sys_hub_input_scripts>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_step_ext_output_bb175b1247601210a266daf1d16d43c2"/>
     <sys_hub_step_instance action="INSERT_OR_UPDATE">
         <action display_value="pi_frox_semaphore_request_action">b609f3ce47641210a266daf1d16d438e</action>
         <cid>a102c238-5530-483e-b197-caafe31e0527</cid>
@@ -2222,30 +2193,6 @@ outputs.rbody = JSON.stringify(pfu._semSetRequestBody(inputs.var_playbook, input
         <variable display_value="MID Application">f5e56d79b3101300176b051a16a8dce4</variable>
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=d1df467e47e01210a266daf1d16d4393"/>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>application</field>
-        <id>d1df467e47e01210a266daf1d16d4393</id>
-        <sys_created_by>david.ogea</sys_created_by>
-        <sys_created_on>2024-09-13 20:41:56</sys_created_on>
-        <sys_id>65df467e47e01210a266daf1d16d43bb</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>david.ogea</sys_updated_by>
-        <sys_updated_on>2024-09-13 20:41:56</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
-    </sys_element_mapping>
-    <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>script</field>
-        <id>d1df467e47e01210a266daf1d16d4393</id>
-        <sys_created_by>david.ogea</sys_created_by>
-        <sys_created_on>2024-09-13 20:41:56</sys_created_on>
-        <sys_id>2ddf467e47e01210a266daf1d16d43bb</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>david.ogea</sys_updated_by>
-        <sys_updated_on>2024-09-13 20:41:56</sys_updated_on>
-        <table>var__m_sys_flow_step_definition_input_106afb6647032200b4fad7527c9a71e7</table>
-        <value/>
-    </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>var_playbook</field>
         <id>d1df467e47e01210a266daf1d16d4393</id>
@@ -2620,7 +2567,6 @@ outputs.rbody = JSON.stringify(pfu._semSetRequestBody(inputs.var_playbook, input
         <xml_view>false</xml_view>
     </sys_hub_step_ext_output>
     <sys_hub_input_scripts action="delete_multiple" query="instance=d1df467e47e01210a266daf1d16d4393"/>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_step_ext_output_d1df467e47e01210a266daf1d16d4393^sys_idNOT INf132d27247241210a266daf1d16d439b"/>
     <sys_documentation action="INSERT_OR_UPDATE">
         <element>rbody</element>
         <help/>
@@ -2634,11 +2580,11 @@ outputs.rbody = JSON.stringify(pfu._semSetRequestBody(inputs.var_playbook, input
         <sys_created_on>2024-09-13 20:52:20</sys_created_on>
         <sys_id>f132d27247241210a266daf1d16d439b</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>rBody</sys_name>
         <sys_package display_value="PiFroxDemo" source="2e52d73947909210a266daf1d16d43f5">2e52d73947909210a266daf1d16d43f5</sys_package>
         <sys_policy/>
         <sys_scope display_value="PiFroxDemo">2e52d73947909210a266daf1d16d43f5</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_d1df467e47e01210a266daf1d16d4393_rbody_en</sys_update_name>
         <sys_updated_by>david.ogea</sys_updated_by>
         <sys_updated_on>2024-09-13 20:52:20</sys_updated_on>
         <url/>
@@ -3084,7 +3030,6 @@ outputs.rbody = JSON.stringify(pfu._semSetRequestBody(inputs.var_playbook, input
         <sys_updated_on>2024-09-11 20:26:10</sys_updated_on>
     </sys_hub_action_status_metadata>
     <sys_hub_status_condition action="delete_multiple" query="action_status_metadata_id=cb09f3ce47641210a266daf1d16d43a2"/>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_input_b609f3ce47641210a266daf1d16d438e^sys_idNOT IN19df467e47e01210a266daf1d16d4387,55df467e47e01210a266daf1d16d4383,a2a697c347601210a266daf1d16d434b"/>
     <sys_documentation action="INSERT_OR_UPDATE">
         <element>requested_item_sys_id</element>
         <help/>
@@ -3098,11 +3043,11 @@ outputs.rbody = JSON.stringify(pfu._semSetRequestBody(inputs.var_playbook, input
         <sys_created_on>2024-09-13 20:41:56</sys_created_on>
         <sys_id>19df467e47e01210a266daf1d16d4387</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Requested Item Sys ID</sys_name>
         <sys_package display_value="PiFroxDemo" source="2e52d73947909210a266daf1d16d43f5">2e52d73947909210a266daf1d16d43f5</sys_package>
         <sys_policy/>
         <sys_scope display_value="PiFroxDemo">2e52d73947909210a266daf1d16d43f5</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_b609f3ce47641210a266daf1d16d438e_requested_item_sys_id_en</sys_update_name>
         <sys_updated_by>david.ogea</sys_updated_by>
         <sys_updated_on>2024-09-13 20:41:56</sys_updated_on>
         <url/>
@@ -3121,11 +3066,11 @@ outputs.rbody = JSON.stringify(pfu._semSetRequestBody(inputs.var_playbook, input
         <sys_created_on>2024-09-13 20:41:56</sys_created_on>
         <sys_id>55df467e47e01210a266daf1d16d4383</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Playbook</sys_name>
         <sys_package display_value="PiFroxDemo" source="2e52d73947909210a266daf1d16d43f5">2e52d73947909210a266daf1d16d43f5</sys_package>
         <sys_policy/>
         <sys_scope display_value="PiFroxDemo">2e52d73947909210a266daf1d16d43f5</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_b609f3ce47641210a266daf1d16d438e_playbook_en</sys_update_name>
         <sys_updated_by>david.ogea</sys_updated_by>
         <sys_updated_on>2024-09-13 20:41:56</sys_updated_on>
         <url/>
@@ -3144,18 +3089,17 @@ outputs.rbody = JSON.stringify(pfu._semSetRequestBody(inputs.var_playbook, input
         <sys_created_on>2024-09-14 20:29:53</sys_created_on>
         <sys_id>a2a697c347601210a266daf1d16d434b</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Template ID</sys_name>
         <sys_package display_value="PiFroxDemo" source="2e52d73947909210a266daf1d16d43f5">2e52d73947909210a266daf1d16d43f5</sys_package>
         <sys_policy/>
         <sys_scope display_value="PiFroxDemo">2e52d73947909210a266daf1d16d43f5</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_input_b609f3ce47641210a266daf1d16d438e_template_id_en</sys_update_name>
         <sys_updated_by>david.ogea</sys_updated_by>
         <sys_updated_on>2024-09-14 20:29:53</sys_updated_on>
         <url/>
         <url_target/>
     </sys_documentation>
     <sys_choice action="delete_multiple" query="name=var__m_sys_hub_action_input_b609f3ce47641210a266daf1d16d438e"/>
-    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_action_output_b609f3ce47641210a266daf1d16d438e^sys_idNOT IN0f09f3ce47641210a266daf1d16d4397,4f09f3ce47641210a266daf1d16d439d"/>
     <sys_documentation action="INSERT_OR_UPDATE">
         <element>__action_status__</element>
         <help/>
@@ -3169,11 +3113,11 @@ outputs.rbody = JSON.stringify(pfu._semSetRequestBody(inputs.var_playbook, input
         <sys_created_on>2024-09-11 20:26:10</sys_created_on>
         <sys_id>0f09f3ce47641210a266daf1d16d4397</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Action Status</sys_name>
         <sys_package display_value="PiFroxDemo" source="2e52d73947909210a266daf1d16d43f5">2e52d73947909210a266daf1d16d43f5</sys_package>
         <sys_policy/>
         <sys_scope display_value="PiFroxDemo">2e52d73947909210a266daf1d16d43f5</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_b609f3ce47641210a266daf1d16d438e___action_status___en</sys_update_name>
         <sys_updated_by>david.ogea</sys_updated_by>
         <sys_updated_on>2024-09-11 20:26:10</sys_updated_on>
         <url/>
@@ -3192,11 +3136,11 @@ outputs.rbody = JSON.stringify(pfu._semSetRequestBody(inputs.var_playbook, input
         <sys_created_on>2024-09-11 20:26:10</sys_created_on>
         <sys_id>4f09f3ce47641210a266daf1d16d439d</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name/>
+        <sys_name>Don't Treat as Error</sys_name>
         <sys_package display_value="PiFroxDemo" source="2e52d73947909210a266daf1d16d43f5">2e52d73947909210a266daf1d16d43f5</sys_package>
         <sys_policy/>
         <sys_scope display_value="PiFroxDemo">2e52d73947909210a266daf1d16d43f5</sys_scope>
-        <sys_update_name/>
+        <sys_update_name>sys_documentation_var__m_sys_hub_action_output_b609f3ce47641210a266daf1d16d438e___dont_treat_as_error___en</sys_update_name>
         <sys_updated_by>david.ogea</sys_updated_by>
         <sys_updated_on>2024-09-11 20:26:10</sys_updated_on>
         <url/>
@@ -3206,6 +3150,6 @@ outputs.rbody = JSON.stringify(pfu._semSetRequestBody(inputs.var_playbook, input
     <sys_hub_action_type_definition action="UPDATE">
         <sys_id>9e78f30e47641210a266daf1d16d43d5</sys_id>
         <latest_snapshot>b609f3ce47641210a266daf1d16d438e</latest_snapshot>
-        <compiler_build>glide-washingtondc-12-20-2023__patch4-hotfix1-06-10-2024_06-17-2024_2231.zip</compiler_build>
+        <compiler_build>glide-yokohama-12-18-2024__patch3-04-17-2025_04-30-2025_1345.zip</compiler_build>
     </sys_hub_action_type_definition>
 </record_update>

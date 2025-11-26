@@ -171,7 +171,7 @@
         <update_guid_history>a8c548f5dde0d610cc967cbfaad00aae:-690960935,9b22c87138e0d6106c6f06442e983355:-891057078</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Ansible Playbook">1c56e63247a41210a266daf1d16d43fc</sys_audit_delete>
+        <sys_audit_delete display_value="">1c56e63247a41210a266daf1d16d43fc</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>david.ogea</sys_created_by>
         <sys_created_on>2024-09-13 22:20:10</sys_created_on>

@@ -42,7 +42,7 @@
         <update_guid_history>6b8c1b71f7149210b6effc06868b80dc:29854922,698c13b1b2149210341886342f16a9a3:36944619</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Pi Frox Initialize.pi_frox_decommission">279cd3b147149210a266daf1d16d4362</sys_audit_delete>
+        <sys_audit_delete display_value="">279cd3b147149210a266daf1d16d4362</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>david.ogea</sys_created_by>
         <sys_created_on>2024-08-29 13:27:48</sys_created_on>

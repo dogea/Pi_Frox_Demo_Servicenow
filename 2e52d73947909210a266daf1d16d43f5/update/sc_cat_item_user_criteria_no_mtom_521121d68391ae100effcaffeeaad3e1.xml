@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
     <sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="D-PRD-00  Pi Frox Demonstrator">ac34dbf147d09210a266daf1d16d439f</sc_cat_item>
+        <sc_cat_item display_value="pi_frox_decommission">856adb7d47d09210a266daf1d16d4335</sc_cat_item>
         <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
         <sys_created_by>david.ogea</sys_created_by>
-        <sys_created_on>2024-08-29 12:53:17</sys_created_on>
-        <sys_id>02b45b3547d09210a266daf1d16d4353</sys_id>
+        <sys_created_on>2025-05-06 06:59:02</sys_created_on>
+        <sys_id>521121d68391ae100effcaffeeaad3e1</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>D-PRD-00  Pi Frox Demonstrator.SNC External</sys_name>
+        <sys_name>pi_frox_decommission.SNC External</sys_name>
         <sys_package display_value="PiFroxDemo" source="2e52d73947909210a266daf1d16d43f5">2e52d73947909210a266daf1d16d43f5</sys_package>
         <sys_policy/>
         <sys_scope display_value="PiFroxDemo">2e52d73947909210a266daf1d16d43f5</sys_scope>
-        <sys_update_name>sc_cat_item_user_criteria_no_mtom_02b45b3547d09210a266daf1d16d4353</sys_update_name>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_521121d68391ae100effcaffeeaad3e1</sys_update_name>
         <sys_updated_by>david.ogea</sys_updated_by>
-        <sys_updated_on>2024-08-29 12:53:17</sys_updated_on>
+        <sys_updated_on>2025-05-06 06:59:02</sys_updated_on>
         <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
     </sc_cat_item_user_criteria_no_mtom>
 </record_update>
